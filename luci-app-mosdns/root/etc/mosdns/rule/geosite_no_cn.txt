@@ -712,7 +712,6 @@ ai
 ai-kan.net
 ai-wen.net
 ai.binwang.me
-ai.com
 aiaa.org
 aibaobei.me
 aig
@@ -3818,6 +3817,7 @@ cloudconvert.com
 cloudcraze.com
 cloudcredibility.com
 cloudflare-dns.com
+cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
@@ -3828,6 +3828,7 @@ cloudflarebolt.com
 cloudflareclient.com
 cloudflareinsights.com
 cloudflareok.com
+cloudflareportal.com
 cloudflarepreview.com
 cloudflareresolve.com
 cloudflaressl.com
@@ -12189,6 +12190,8 @@ onefifteen.net
 onefifteen.org
 onejapanese.com
 onejav.com
+onekey-asset.com
+onekeycn.com
 onenote.com
 onenote.net
 onepornlist.com
@@ -12812,6 +12815,8 @@ pieceofplastic.com
 pifpafarabia.com
 pigav.com
 pikabu.monster
+pikpak.me
+pikpakdrive.com
 pillbeatsblackfridaysale.com
 pin-cong.com
 pin6.com
@@ -17123,6 +17128,7 @@ vultryhw.com
 vxnbbrs.xyz
 vxxsred.xyz
 vzw.com
+w-mt.co
 w.idaiwan.com
 w.org
 w.wiki
@@ -18834,6 +18840,7 @@ full:nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 full:nvidia.tt.omtrdc.net
 full:ocsp.microsoft.com
 full:officecdn-microsoft-com.akamaized.net
+full:onekey.zendesk.com
 full:oneocsp.microsoft.com
 full:ood.opsource.net
 full:openaiapi-site.azureedge.net
