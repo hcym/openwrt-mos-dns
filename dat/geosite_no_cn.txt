@@ -3427,6 +3427,7 @@ cdkworkshop.com
 cdmatech.com
 cdn-apple.com
 cdn-images.mailchimp.com
+cdn-telegram.org
 cdn-terapeak.com
 cdn.assets.lfpcontent.com
 cdn.printfriendly.com
@@ -3515,6 +3516,7 @@ chartis
 chase
 chat
 chatango.com
+chatgpt.com
 chatnook.com
 chatr
 chatter.com
@@ -3839,6 +3841,7 @@ cloudcraze.com
 cloudcredibility.com
 cloudflare-dns.com
 cloudflare-ech.com
+cloudflare-esni.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
@@ -3904,8 +3907,6 @@ cnabc.com
 cnappinstall.googleadapis.com
 cnbc.com
 cnbcfm.com
-cnbeta.com
-cnbetacdn.com
 cncrivals.com
 cnd.org
 cnet.com
@@ -4349,6 +4350,7 @@ dartsearch.net
 darwinsource.com
 darwinsource.org
 darwinsourcecode.com
+dasaob.online
 dashwood360.com
 dastanhisexy.cc
 dastrassi.org
@@ -6005,7 +6007,9 @@ fanqianglu.com
 fanqiangyakexi.net
 fanqiangzhe.com
 fans-here.com
+fans17.com
 fansnudes.com
+fansone.co
 fansta.me
 fansteek.com
 fanswong.com
@@ -6197,6 +6201,7 @@ fffdm.com
 fffucked.com
 fflick.com
 fflnk.net
+fflogs.com
 ffmpeg.org
 ffotolia.com
 ffprofile.com
@@ -9037,6 +9042,7 @@ is
 is-a-hunter.com
 isaacmao.com
 isasecret.com
+isbgpsafeyet.com
 isca-speech.org
 ischool.com
 iselect
@@ -9711,6 +9717,7 @@ korewaeroi.com
 koskade.com
 kostenlosepornoclips.com
 kotlinlang.org
+kouwobb.com
 kp
 kphimsex.net
 kpmg
@@ -11382,6 +11389,7 @@ mymom.info
 mymusclevideo.com
 mynetav.net
 mynetav.org
+mynetname.net
 mynike.com
 mynumber.org
 myoctocat.com
@@ -12129,6 +12137,7 @@ o365weve-dev.com
 o365weve-ppe.com
 o365weve.com
 oaistatic.com
+oaiusercontent.com
 oanda.com
 oanencore.com
 oann.com
@@ -14079,6 +14088,7 @@ routerboard.com
 routledgehandbooks.com
 royalcams.com
 royalsocietypublishing.org
+rpglogs.com
 rplay.live
 rpmfusion.org
 rprimelab.com
@@ -14218,6 +14228,7 @@ sanofi
 sanspo.com
 sanvaras.com
 sanwapub.com
+saobjpg.com
 saoni91.xyz
 saonidh01.cc
 sap
@@ -14248,6 +14259,7 @@ saxo
 say2.info
 saynow.com
 sb
+sb-cd.com
 sb-telecom.net
 sbi
 sbitravelcard.com
@@ -16014,6 +16026,7 @@ tig-ol-bitties.live
 tigervpn.com
 tik-tokapi.com
 tiktok.com
+tiktokcdn-us.com
 tiktokcdn.com
 tiktokd.net
 tiktokd.org
@@ -16293,6 +16306,7 @@ tt1069.com
 tteshop.com
 tttan.com
 ttvnw.net
+ttwstatic.com
 tu8964.com
 tubaholic.com
 tube-pornomovs.com
@@ -18389,9 +18403,6 @@ yespornplease.com
 yespornpleasexxx.com
 yeswegays.com
 yeyeclub.com
-yeyuehuachao11.com
-yeyuehuachao12.com
-yeyuehuachao13.com
 ygto.com
 ygugu4.com
 yhcw.net
@@ -18768,7 +18779,6 @@ zyzc9.com
 zzcartoon.com
 zzcloud.me
 zzgays.com
-zzitube.com
 zzux.com
 zzycdz.com
 full:3dns-1.adobe.com
@@ -18926,6 +18936,7 @@ full:img-prod-cms-rt-microsoft-com.akamaized.net
 full:img-s-msn-com.akamaized.net
 full:impala-media-production.s3.amazonaws.com
 full:imperial.insendi.com
+full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
 full:lgelectronics.122.2o7.net
 full:licdn.cn.cdn20.com
