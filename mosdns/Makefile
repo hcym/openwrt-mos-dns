@@ -5,7 +5,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=mosdns
-PKG_VERSION:=a281fdb
+PKG_VERSION:=025823c
 PKG_RELEASE:=$(AUTORELEASE)
 
 PKG_SOURCE:=mosdns-$(PKG_VERSION).tar.gz
@@ -65,7 +65,7 @@ endef
 
 define Build/UpdateDependencies
 	cd $(PKG_BUILD_DIR) && \
-		go get -u && \
+		go get -u=patch && \
 		go mod tidy
 endef
 
